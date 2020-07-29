@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../base-react/.idea/base-react.iml" filepath="$PROJECT_DIR$/../base-react/.idea/base-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../base-vue/.idea/base-vue.iml" filepath="$PROJECT_DIR$/../base-vue/.idea/base-vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/koa-two-fe.iml" filepath="$PROJECT_DIR$/.idea/koa-two-fe.iml" />
+    </modules>
+  </component>
+</project>
